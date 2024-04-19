@@ -1,17 +1,5 @@
 # Loan Management System
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Some Glimpses](#some-glimpses)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tech Stack](#tech-stack)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-
 ## Introduction
 
 The Loan Management System is a web application designed to manage loans, track repayments, and facilitate loan-related operations. This system is developed to streamline the process of lending and borrowing money, making it efficient for both lenders and borrowers.
@@ -27,15 +15,6 @@ Key features of this Loan Management System include loan creation, repayment pro
 - **User Account Management:** Manage user profiles, including personal and contact information.
 - **Reporting:** Generate reports and insights into loan status, repayment history, and more.
 
-## Some Glimpses
-
-![Image](/images/image01.png)
-
-![Image](/images/image02.png)
-
-![Image](/images/image03.png)
-
-![Image](/images/image04.png)
 
 ## Getting Started
 
@@ -45,9 +24,7 @@ To get started with the Loan Management System, follow these steps:
 
 1.  **Clone the repository:**
 
-    ```
-    git clone https://github.com/theanantchoubey/loan-management-system.git
-    ```
+  
 
 2.  **Install the project dependencies & run Frontend:**
 
@@ -159,11 +136,3 @@ The Loan Management System (LMS) is built using a combination of modern web deve
 - **VS Code:** Development environment with TypeScript support.
 - **JWT (JSON Web Tokens):** For secure authentication and authorization.
 - **bcrypt:** Password hashing for user security.
-
-## API Documentation
-
-The Loan Management System provides APIs for managing loans and repayments. For detailed API documentation, refer to the [API Documentation](/Loan%20Management%20System.postman_collection.json) file.
-
-## Contributing
-
-Contributions are welcome! If you want to contribute to this project, please contact - [anantchoubey039@gmail.com](mailto:anantchoubey039@gmail.com)
